@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Rashode Forsey  
+
+This is my space for projects that combine **analytics, automation, and product strategy**.  .  
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
