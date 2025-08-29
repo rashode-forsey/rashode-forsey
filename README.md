@@ -27,11 +27,7 @@ This is my space for **analytics, automation, and product strategy** projects. D
 
 ### Telecom Upsell Opportunity Analysis
 
-**[Link to Live Tableau Dashboard](https://public.tableau.com/app/profile/rashode.forsey/viz/TelecomUpsellOpportunityAnalysis/AnalysisofUpsellOpportunitiesforPremiumInternet)**
-
-This project analyzes a telco dataset to identify a key customer segment for a technology modernization campaign. The analysis uses SQL for initial exploration and a Tableau calculated field to segment customers, evaluates their financial value, and provides a strategic recommendation based on the findings.
-
-**Tech Stack Used:** `SQL` (for initial data exploration) and `Tableau` (for final analysis, visualization, and dashboarding).
-
+Analyzed a telecom dataset to identify high-value, loyal DSL customers for a modernization campaign. Used **SQL** for data exploration and **Tableau** for segmentation, visualization, and dashboarding.  
+[View Live Tableau Dashboard](https://public.tableau.com/app/profile/rashode.forsey/viz/TelecomUpsellOpportunityAnalysis/AnalysisofUpsellOpportunitiesforPremiumInternet)
 *<img width="1905" height="1041" alt="Image" src="https://github.com/user-attachments/assets/8a720bcc-9697-4406-9971-a6b2d975da6d" />*
 
