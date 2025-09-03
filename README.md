@@ -29,5 +29,4 @@ This is my space for **analytics, automation, and product strategy** projects. D
 
 Analyzed a telecom dataset to identify high-value, loyal DSL customers for a modernization campaign. Used **SQL** for data exploration and **Tableau** for segmentation, visualization, and dashboarding.  
 [View Live Tableau Dashboard](https://public.tableau.com/app/profile/rashode.forsey/viz/TelecomUpsellOpportunityAnalysis/AnalysisofUpsellOpportunitiesforPremiumInternet)
-*<img width="1905" height="1041" alt="Image" src="https://github.com/user-attachments/assets/8a720bcc-9697-4406-9971-a6b2d975da6d" />*
 
